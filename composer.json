@@ -1,0 +1,18 @@
+{
+    "name": "perrache/tree",
+    "description": "TreeClass",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Perrache\\Tree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Piotr Lewandowski",
+            "email": "plew1961@gmail.com"
+        }
+    ],
+    "require": {}
+}
