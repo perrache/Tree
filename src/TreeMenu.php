@@ -8,6 +8,6 @@ class TreeMenu
 
     public function addNode(): string
     {
-        return '<h3>dupa</h3>>';
+        return '<h3>dupa</h3>';
     }
 }
